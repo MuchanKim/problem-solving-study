@@ -1,4 +1,4 @@
-# [Silver V] 그룹 단어 체커 - 1316 
+# [Silver V] 그룹 단어 체커 - 1316z
 
 [문제 링크](https://www.acmicpc.net/problem/1316) 
 
