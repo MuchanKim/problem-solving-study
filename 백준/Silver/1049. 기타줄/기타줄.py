@@ -1,25 +1,28 @@
-n, m = map(int, input().split())
-package = []
-single = []
+import sys
 
-for _ in range(m):
-    a, b = map(int, input().split())
-    package.append(a)
-    single.append(b)
+input = sys.stdin.readline
 
-min_package = min(package)
+N, M = map(int, input().split())
+packgage = []
+unit = []
 
-ans = 0
-while n > 0:
-    if n >= 6:
-        min_single = min(single)*6
-        n -= 6
+for _ in range(M):
+    packgage_price, unit_price = map(int, input().split())
+    packgage.append(packgage_price)
+    unit.append(unit_price)
+
+min_package = min(packgage)
+min_unit = min(unit)
+result = 0
+
+if min_unit * 6 <= min_package:
+    result = min_unit * N
+elif min_unit * 6 > min_package:
+    result =  min_package * (N // 6) 
+    N %= 6  
+    if N > min_package // min_unit: 
+        result += min_package
     else:
-        min_single = min(single)*n
-        n -= n
-    if min_single < min_package:
-        ans += min_single
-    else:
-        ans += min_package
+        result = result + min_unit*N
 
-print(ans)
+print(result)
