@@ -1,0 +1,11 @@
+T = int(input())
+
+def input_squares_list(T):
+	area_of_squares = []
+	for _ in range(T):
+		w, h = map(int, input().split())
+		area_of_squares.append(w*h)
+	return area_of_squares
+	
+squares = input_squares_list(T)
+print(max(squares))
