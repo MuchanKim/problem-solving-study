@@ -1,0 +1,41 @@
+N = int(input())
+p1, p2, p3, p4, p5 = map(int, input().split())
+
+questions = []
+
+for _ in range(N):
+    level, t = map(int, input().split())
+    questions.append((level, t))
+
+# 난이도와 시간별로 정렬
+questions.sort(key=lambda x: (x[0], x[1]))
+
+total_time = 0
+prev_time = 0
+prev_level = 0
+
+for level, t in questions:
+    # 문제를 풀어야 할 개수만큼 고려
+    if (level == 1 and p1 > 0) or (level == 2 and p2 > 0) or (level == 3 and p3 > 0) or (level == 4 and p4 > 0) or (level == 5 and p5 > 0):
+        total_time += t
+        if prev_level != 0:
+            if level == prev_level:
+                total_time += abs(t - prev_time)
+            else:
+                total_time += 60
+        prev_time = t
+        prev_level = level
+
+        # 해당 난이도 문제 수 감소
+        if level == 1:
+            p1 -= 1
+        elif level == 2:
+            p2 -= 1
+        elif level == 3:
+            p3 -= 1
+        elif level == 4:
+            p4 -= 1
+        elif level == 5:
+            p5 -= 1
+
+print(total_time)
