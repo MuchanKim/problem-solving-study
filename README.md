@@ -1,2 +1,12 @@
-# Baekjoon
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# PS Study
+
+1️⃣ 최소 1일 1문제 목표
+
+2️⃣ 주 언어 Python -> Swift 변경(24.06.17)
+
+3️⃣ 백준, 프로그래머스, 구름에서 진행
+
+## 기록(2024.06.17 시작)
+|날짜|문제|알고리즘 유형|언어|                              
+|:---:|:------:|:------:|:----:|
+|24.06.17|[다리 놓기](https://www.acmicpc.net/problem/1010)|DP, 구현|Swift|
