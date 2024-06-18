@@ -10,3 +10,4 @@
 |날짜|문제|알고리즘 유형|언어|                              
 |:---:|:------:|:------:|:----:|
 |24.06.17|[제로](https://www.acmicpc.net/problem/10773)|구현, 스택|Swift|
+|24.06.18|[덩치](https://www.acmicpc.net/problem/7568)|구현|Swift|
