@@ -13,3 +13,4 @@
 |24.06.18|[덩치](https://www.acmicpc.net/problem/7568)|구현|Swift|
 |24.06.19|[색종이](https://www.acmicpc.net/problem/2563)|구현|Swift|
 |24.06.20|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|구현, 문자열|Swift|
+|24.06.21|[소인수분해](https://www.acmicpc.net/problem/11653)|수학|Swift|
