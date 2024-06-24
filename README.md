@@ -15,3 +15,5 @@
 |24.06.20|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|구현, 문자열|Swift|
 |24.06.21|[소인수분해](https://www.acmicpc.net/problem/11653)|수학|Swift|
 |24.06.22|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|수학|Swift|
+|24.06.24|[팰린드롬수](https://www.acmicpc.net/problem/1259)|구현, 문자열|Swift|
+|24.06.24|[방번호](https://www.acmicpc.net/problem/1475)|구현|Swift|
