@@ -1,31 +1,19 @@
-import Foundation
+let input = readLine()!.split(separator: " ").map { Int($0)! }
+let n = input[0]
+let k = input[1]
+var cnt = 0
+var arr = Array(repeating: true, count: n+1)
 
-func solution(_ arr: [Int], limit: Int) {
-    var arr: [Int] = arr
-    var count: Int = 0
-    
-    while !arr.isEmpty {
-        var minNum: Int = arr[0]
-        for i in arr {
-            if i % minNum == 0 {
-                if let index = arr.firstIndex(of: i){
-                    arr.remove(at: index)
-                    count += 1
-                    if count == limit {
-                        print(i)
-                        break
-                    }
-                }
+for i in 2..<n+1 {
+    for j in stride(from: i, to: n+1, by: i) {
+        if arr[j] {
+            arr[j] = false
+            cnt += 1
+            if cnt == k {
+                print(j)
+                break
             }
         }
     }
 }
 
-let input = readLine()!.components(separatedBy: " ").map { Int($0)! }
-
-let N: Int = input[0]
-let K: Int = input[1]
-
-var arr = Array(2...N)
-
-solution(arr, limit: K)
