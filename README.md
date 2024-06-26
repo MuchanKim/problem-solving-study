@@ -21,3 +21,4 @@
 |24.06.24|[팰린드롬수](https://www.acmicpc.net/problem/1259)|구현, 문자열|Swift|❌|
 |24.06.24|[방번호](https://www.acmicpc.net/problem/1475)|구현|Swift|❌|
 |24.06.25|[에라토스테네스의 체](https://www.acmicpc.net/problem/1475)|에라토스테네스의체, 구현, 수학, 소수 판정|Swift|✅|
+|24.06.26|[통계학](https://www.acmicpc.net/problem/2108)|구현, 수학, 정렬|Swift|❌|
