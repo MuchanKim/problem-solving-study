@@ -1,6 +1,6 @@
 # 🔎 PS Study
 
-1️⃣ 최소 1일 1문제 목표
+1️⃣ 1일 1문제(잔디 심기용 쉬운 문제 ❌)
 
 2️⃣ 주 언어 Python -> Swift 변경(24.06.17)
 
@@ -27,3 +27,4 @@
 |24.06.29|[\[프로그래머스\] x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|수학|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12954.%E2%80%85x%EB%A7%8C%ED%81%BC%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%B4%E2%80%85%EC%9E%88%EB%8A%94%E2%80%85n%EA%B0%9C%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90)|레벨1|Swift|✅|
 |24.06.29|[\[프로그래머스\] 콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|구현|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/132267.%E2%80%85%EC%BD%9C%EB%9D%BC%E2%80%85%EB%AC%B8%EC%A0%9C)|레벨1|Swift|✅|
 |24.07.02|[\[BOJ\] 기상캐스터](https://www.acmicpc.net/problem/10709)|구현, 시뮬레이션|[바로가기](https://github.com/MuchanKim/problem-solving-study/blob/main/%EB%B0%B1%EC%A4%80/Silver/10709.%E2%80%85%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0/%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0.swift)|실버5|Swift|✅|
+|24.07.03|[\[BOJ\] 킹](https://www.acmicpc.net/problem/1063)|구현, 시뮬레이션|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1063.%E2%80%85%ED%82%B9)|실버3|Swift|✅|
