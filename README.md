@@ -30,3 +30,4 @@
 |24.07.03|[\[BOJ\] 킹](https://www.acmicpc.net/problem/1063)|구현, 시뮬레이션|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1063.%E2%80%85%ED%82%B9)|실버3|Swift|✅|
 |24.07.05|[\[BOJ\] 과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)|구현, 시뮬레이션, 자료구조|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/17952.%E2%80%85%EA%B3%BC%EC%A0%9C%EB%8A%94%E2%80%85%EB%81%9D%EB%82%98%EC%A7%80%E2%80%85%EC%95%8A%EC%95%84%EF%BC%81)|실버3|Swift|✅|
 |24.07.07|[\[BOJ\] 추월](https://www.acmicpc.net/problem/2002)|구현, 자료구조|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2002.%E2%80%85%EC%B6%94%EC%9B%94)|실버1|Swift|✅|
+|24.07.09|[\[BOJ\] 팔](https://www.acmicpc.net/problem/1105)|수학, 그리디|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1105.%E2%80%85%ED%8C%94)|실버1|Swift|✅|
