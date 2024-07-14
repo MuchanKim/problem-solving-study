@@ -4,7 +4,7 @@
 
 2️⃣ 주 언어 Python -> Swift 변경(24.06.17)
 
-3️⃣ 코멘트 - 문제풀이 후 다른 코드 비교해보고 느낀 점 등 주석으로 달기(필요시)
+3️⃣ 코멘트 - 회고록 느낌으로 작성(코드 왜 이렇게 짰는지, TMI 등)
 
 4️⃣ 백준, 프로그래머스, 구름IDE에서 진행
 
@@ -23,7 +23,7 @@
 |24.06.25|[\[BOJ\] 에라토스테네스의 체](https://www.acmicpc.net/problem/1475)|에라토스테네스의체, 구현, 수학|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2960.%E2%80%85%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%E2%80%85%EC%B2%B4)|실버4|Swift|✅|
 |24.06.26|[\[BOJ\] 통계학](https://www.acmicpc.net/problem/2108)|구현, 수학, 정렬|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2108.%E2%80%85%ED%86%B5%EA%B3%84%ED%95%99)|실버3|Swift|❌|
 |24.06.27|[\[BOJ\] 수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)|구현, 수학|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1748.%E2%80%85%EC%88%98%E2%80%85%EC%9D%B4%EC%96%B4%E2%80%85%EC%93%B0%EA%B8%B0%E2%80%851)|실버4|Swift|✅|
-|24.06.28|[\[프로그래머스\] 나머지가 1이 되는 수 찾기](https://www.acmicpc.net/problem/1748)|수학|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/87389.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%E2%80%851%EC%9D%B4%E2%80%85%EB%90%98%EB%8A%94%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)|레벨1|Swift|✅|
+|24.06.28|[\[프로그래머스\] 나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|수학|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/87389.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%E2%80%851%EC%9D%B4%E2%80%85%EB%90%98%EB%8A%94%E2%80%85%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0)|레벨1|Swift|✅|
 |24.06.29|[\[프로그래머스\] x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|수학|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12954.%E2%80%85x%EB%A7%8C%ED%81%BC%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%B4%E2%80%85%EC%9E%88%EB%8A%94%E2%80%85n%EA%B0%9C%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90)|레벨1|Swift|✅|
 |24.06.29|[\[프로그래머스\] 콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|구현|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/132267.%E2%80%85%EC%BD%9C%EB%9D%BC%E2%80%85%EB%AC%B8%EC%A0%9C)|레벨1|Swift|✅|
 |24.07.02|[\[BOJ\] 기상캐스터](https://www.acmicpc.net/problem/10709)|구현, 시뮬레이션|[바로가기](https://github.com/MuchanKim/problem-solving-study/blob/main/%EB%B0%B1%EC%A4%80/Silver/10709.%E2%80%85%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0/%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0.swift)|실버5|Swift|✅|
@@ -31,3 +31,4 @@
 |24.07.05|[\[BOJ\] 과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)|구현, 시뮬레이션, 자료구조|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/17952.%E2%80%85%EA%B3%BC%EC%A0%9C%EB%8A%94%E2%80%85%EB%81%9D%EB%82%98%EC%A7%80%E2%80%85%EC%95%8A%EC%95%84%EF%BC%81)|실버3|Swift|✅|
 |24.07.07|[\[BOJ\] 추월](https://www.acmicpc.net/problem/2002)|구현, 자료구조|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/2002.%E2%80%85%EC%B6%94%EC%9B%94)|실버1|Swift|✅|
 |24.07.09|[\[BOJ\] 팔](https://www.acmicpc.net/problem/1105)|수학, 그리디|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%EB%B0%B1%EC%A4%80/Silver/1105.%E2%80%85%ED%8C%94)|실버1|Swift|✅|
+|24.07.14|[\[프로그래머스\] 기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|구현, 소수|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/136798.%E2%80%85%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%E2%80%85%EB%AC%B4%EA%B8%B0)|레벨1|Swift|✅|
