@@ -1,13 +1,16 @@
+<div align>
+	<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=PS%20Study%20Place&fontSize=90" />	
+</div>
+
 # 🔎 PS Study
 
-1️⃣ 1일 1문제(잔디 심기용 쉬운 문제 ❌)
+1️⃣ 잔디 심기용 쉬운 문제 ❌
 
 2️⃣ 주 언어 Python -> Swift 변경(24.06.17)
 
 3️⃣ 코멘트 - 회고록 느낌으로 작성(코드 왜 이렇게 짰는지, TMI 등)
 
 4️⃣ 백준, 프로그래머스, 구름IDE에서 진행
-
 
 ## 📝 기록(2024.06.17 시작)
 |   날짜  |                      문제                   |     알고리즘 유형    |                문제풀이              | 난이도 | 언어 | 코멘트 |                              
@@ -38,4 +41,6 @@
 |24.07.19|[\[프로그래머스\] 핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|문자열|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12948.%E2%80%85%ED%95%B8%EB%93%9C%ED%8F%B0%E2%80%85%EB%B2%88%ED%98%B8%E2%80%85%EA%B0%80%EB%A6%AC%EA%B8%B0)|레벨1|Swift|❌|
 |24.07.19|[\[프로그래머스\] 수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|문자열|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12922.%E2%80%85%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EF%BC%9F)|레벨1|Swift|❌|
 |24.07.21|[\[프로그래머스\] (카카오)성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|구현|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/118666.%E2%80%85%EC%84%B1%EA%B2%A9%E2%80%85%EC%9C%A0%ED%98%95%E2%80%85%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)|레벨1|Swift|✅|
-|24.07.21|[\[프로그래머스\] (카카오)개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|구현|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/150370.%E2%80%85%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%E2%80%85%EC%88%98%EC%A7%91%E2%80%85%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)|레벨1|Swift|✅|
+|24.07.21|[\[프로그래머스\] (카카오)개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|구현, 자료구조|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/150370.%E2%80%85%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%E2%80%85%EC%88%98%EC%A7%91%E2%80%85%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84)|레벨1|Swift|✅|
+|24.07.21|[\[프로그래머스\] (카카오)키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|구현, 거리 계산|[바로가기](https://github.com/MuchanKim/problem-solving-study/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/67256.%E2%80%85%EF%BC%BB%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%EC%9D%B8%ED%84%B4%EF%BC%BD%E2%80%85%ED%82%A4%ED%8C%A8%EB%93%9C%E2%80%85%EB%88%84%EB%A5%B4%EA%B8%B0)|레벨1|Swift|✅|
+
